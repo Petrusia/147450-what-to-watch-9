@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть»
 
 * Студент: [Petras Blaževičius](https://up.htmlacademy.ru/react/9/user/147450).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Решетников](https://htmlacademy.ru/profile/id1919895).
 
 ---
 
